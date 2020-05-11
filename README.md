@@ -36,4 +36,4 @@ DenseNet initial weights - https://drive.google.com/open?id=1vTEaFrKAcaW1t7bRJD9
 
 5) exudates.ipynb - Contains code for traditional feature extraction for exudates
 
-#To run  - python Avg_final.py
+# To run  - python Avg_final.py
