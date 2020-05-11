@@ -24,8 +24,6 @@ After augmentation and preprocessing, the dataset - https://drive.google.com/ope
 # Files
 1) Avg_final.py - A Keras file with code for training and testing the performance of ensemble model.
 
-To run  - python Avg_final.py
-
 Our saved ensemble model - https://drive.google.com/open?id=1Iqgw574Og4gzhZ5ZjdTP3IuHly26OqV6
 
 DenseNet initial weights - https://drive.google.com/open?id=1vTEaFrKAcaW1t7bRJD9d98QWBoIgve-6
@@ -37,3 +35,5 @@ DenseNet initial weights - https://drive.google.com/open?id=1vTEaFrKAcaW1t7bRJD9
 4) micro morpho.ipynb - Contains code for traditional feature extraction for microaneurysms
 
 5) exudates.ipynb - Contains code for traditional feature extraction for exudates
+
+#To run  - python Avg_final.py
