@@ -19,6 +19,8 @@ Kaggle APTOS 2019 https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
 We've used further used augmentation techniques to create a balanced dataset having ~1000 images per class.
 
+After augmentation and preprocessing, the dataset - https://drive.google.com/open?id=14aWPQSqwvTxQKh2cSbchpGmkGanguh9A
+
 # Files
 1) Avg_final.py - A Keras file with code for training and testing the performance of ensemble model.
 
