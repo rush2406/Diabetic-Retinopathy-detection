@@ -9,14 +9,15 @@ We've developed an ensemble of pre trained models - InceptionNetV3 and DenseNet1
 
 ![](confusion_matrix.png)
 
-Thus the model shows promising scope for real time deployment. We're currently working on techniques to reduce the size of the model
+Thus the model shows promising scope for real time deployment. We're currently working on techniques to reduce the size of the model.
+
 We have also proposed features extraction techniques using digital image processing.
 
 # Dataset
 
 Kaggle APTOS 2019 https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
-We've used further used augmentation techniques to create a balanced dataset having ~1000 images per class.A
+We've used further used augmentation techniques to create a balanced dataset having ~1000 images per class.
 
 # Files
 1) Avg_final.py - A Keras file with code for training and testing the performance of ensemble model.
