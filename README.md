@@ -3,7 +3,7 @@ A CNN ensembling based approach to grade severity of DR from fundus photographs
 
 We're a group of B.Tech final year students from NIT Warangal, India. Our final year project aims to automate the process of detecting the stage of DR severity from fundus photographs.
 
-We've developed an ensemble of pre trained models - InceptionNetV3 and DenseNet169. We have also proposed features extraction techniques using digital image processing.
+We've developed an ensemble of pre trained models - InceptionNetV3 and DenseNet121. We have also proposed features extraction techniques using digital image processing.
 
 # Procedure
 - Converted the problem into a multilabel classification problem and trained our model to maximize the quadratic kappa score. The intuition for treating the problem as a multilabel classification problem comes from the observation that the features present in an image would contain features of lower severity disease images as well.
