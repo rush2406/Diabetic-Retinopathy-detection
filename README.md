@@ -1,15 +1,9 @@
 # Diabetic-Retinopathy-detection
 A CNN ensembling based approach to grade severity of DR from fundus photographs
 
-We're a group of B.Tech final year students from NIT Warangal, India. Our final year thesis project aims to automate the process of detecting the stage of DR severity from fundus photographs after applying suitable preprocessing techniques.
+We're a group of B.Tech final year students from NIT Warangal, India. Our final year project aims to automate the process of detecting the stage of DR severity from fundus photographs after applying suitable preprocessing techniques.
 
-We've developed an ensemble of pre trained models - InceptionNetV3 and DenseNet169. This hybrid model has shown the following results on the Kaggle 2019 DR dataset (after augmentation) -
-
-![](plot.png)
-![](confusion_matrix.png)
-
-Thus the model shows promising scope for real time deployment. We're currently working on techniques to reduce the size of the model.
-
+We've developed an ensemble of pre trained models - InceptionNetV3 and DenseNet169. 
 We have also proposed features extraction techniques using digital image processing.
 
 # Dataset
