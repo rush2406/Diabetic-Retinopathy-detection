@@ -19,7 +19,7 @@ We've developed an ensemble of pre trained models - InceptionNetV3 and DenseNet1
 4. To predict the class from the obtained binary array : 1+1+1+0+0 - 1 = 2 (classes are indexed from 0, hence subtract 1).
  Hence, the image would be classified as class 2.
 
-# We were able to achieve a kappa score on 0.897 on the private test set using only images of size 224x224.
+We were able to achieve a kappa score on 0.897 on the private test set using only images of size 224x224.
 
 # Dataset
 
